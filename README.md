@@ -211,7 +211,7 @@ flutter run
 ## Demo
 | Login Page | Notes List | Note Detail |
 |------------|------------|-------------|
-| ![Login](assets/screenshots/login_page_image.png) | ![Notes](assets/screenshots/notes_image.png) | ![Detail](assets/screenshots/note_detail_image.png) |
+| ![Login](frontend/assets/screenshots/login_page_image.png) | ![Notes](frontend/assets/screenshots/notes_image.png) | ![Detail](frontend/assets/screenshots/note_detail_image.png) |
 
 ---
 
